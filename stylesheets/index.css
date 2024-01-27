@@ -1,4 +1,9 @@
 
+/* Really cool Font */
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+
+
 root {
     text-align: center;
     font-size: 20px;
@@ -7,6 +12,11 @@ root {
     background-color: #222;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+title {
+    font-family: 'Sixtyfour', sans-serif;
+}
+
 
 h1 {
     font-size: 40px;
