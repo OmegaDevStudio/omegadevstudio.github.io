@@ -10,7 +10,8 @@ root {
     font-weight: bold;
     color: #d0c6c6;
     background-color: #222;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: 'Sixtyfour', sans-serif;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
 }
 
 title {
