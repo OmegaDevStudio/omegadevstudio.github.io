@@ -10,16 +10,12 @@ root {
     font-weight: bold;
     color: #d0c6c6;
     background-color: #222;
-    font-family: 'Sixtyfour', sans-serif;
-    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
 }
 
-title {
-    font-family: 'Sixtyfour', sans-serif;
-}
 
 
 h1 {
+    font-family: 'Sixtyfour', sans-serif !important;
     font-size: 40px;
     font-weight: bold;
 }
