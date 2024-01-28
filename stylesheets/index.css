@@ -16,7 +16,6 @@
 
 /* Fade in the page */
 p {
-    opacity: 0;
     transition: fadein 2s ease-in;
 }
 
