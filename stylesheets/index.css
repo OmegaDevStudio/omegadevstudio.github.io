@@ -47,7 +47,6 @@
 
 /* Fade in the page */
 body {
-    opacity: 100;
     transition: fadein 2s;
     -webkit-transition: fadein 2s;
     -moz-transition: fadein 2s;
