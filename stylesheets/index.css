@@ -46,12 +46,13 @@
 
 
 /* Fade in the page */
-p, h1, h2, h3, h4, h5, h6 {
+p {
+
     transition: fadein 2s;
-    -webkit-transition: fadein 2s;
-    -moz-transition: fadein 2s;
-    -o-transition: fadein 2s;
-    -ms-transition: fadein 2s;
+    -webkit-transition: fadein 2s ease-in;
+    -moz-transition: fadein 2s ease-in;
+    -o-transition: fadein 2s ease-in;
+    -ms-transition: fadein 2s ease-in;
 }
 
 h1 {
