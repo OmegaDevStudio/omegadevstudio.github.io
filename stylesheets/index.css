@@ -47,8 +47,8 @@
 
 /* Fade in the page */
 p {
-
-    transition: fadein 2s;
+    opacity: 0;
+    transition: fadein 2s ease-in;
     -webkit-transition: fadein 2s ease-in;
     -moz-transition: fadein 2s ease-in;
     -o-transition: fadein 2s ease-in;
